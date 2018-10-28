@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_play_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.notexample.coltonquan.tappadabba.PlayScreen"
+    android:background="@android:color/background_light">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/linearLayout">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton84"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton121"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton120"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton114"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton113"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton112"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton111"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton110"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton109"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton108"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton107"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton106"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton105"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton104"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton103"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton102"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton101"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton100"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton99"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton98"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton97"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton96"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton95"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton94"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton93"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton92"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton91"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton90"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton89"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton88"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton87"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton86"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/lightblue_strip"
+            android:id="@+id/imageButton85"
+            android:layout_weight="1"
+            android:background="@android:color/background_light" />
+
+    </LinearLayout>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/stand"
+        android:id="@+id/manButton"
+        android:background="@android:color/background_light"
+        android:layout_below="@+id/traingleButton"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:color/transparent"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/countdownButton"
+        android:background="@android:color/transparent" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/someText"
+        android:layout_alignLeft="@+id/someText"
+        android:layout_alignStart="@+id/someText"
+        android:id="@+id/someText1" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/yellow_triangle"
+        android:id="@+id/traingleButton"
+        android:background="@android:color/background_light"
+        android:layout_marginTop="7dp"
+        android:layout_below="@+id/linearLayout"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:visibility="invisible">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/red_strip"
+                android:id="@+id/redButton"
+                android:layout_weight="1"
+                android:background="@android:color/holo_red_dark" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/purple_strip"
+                android:id="@+id/purpleButton"
+                android:layout_weight="1"
+                android:background="@android:color/holo_purple" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/orange_strip"
+                android:id="@+id/orangeButton"
+                android:layout_weight="1"
+                android:background="@android:color/holo_orange_dark" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/green_strip"
+                android:id="@+id/greenButton"
+                android:layout_weight="1"
+                android:background="@android:color/holo_green_dark" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/blue_strip"
+                android:id="@+id/blueButton"
+                android:layout_weight="1"
+                android:background="@android:color/holo_blue_dark" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/black_strip"
+                android:id="@+id/blackButton"
+                android:layout_weight="1"
+                android:background="@android:color/black" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/lightblue_strip"
+                android:id="@+id/lightblueButton"
+                android:layout_weight="1"
+                android:background="@android:color/background_light" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/dab_button"
+                android:id="@+id/dabButton"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                android:layout_margin="@dimen/activity_vertical_margin" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/special_button"
+                android:id="@+id/specialButton"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                android:layout_margin="@dimen/activity_vertical_margin" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mini_button"
+                android:id="@+id/miniButton"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                android:layout_margin="@dimen/activity_vertical_margin" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/high_button"
+                android:id="@+id/highButton"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                android:layout_margin="@dimen/activity_vertical_margin" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/back_button"
+                android:id="@+id/backButton"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                android:layout_margin="@dimen/activity_vertical_margin" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/low_button"
+                android:id="@+id/lowButton"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                android:layout_margin="@dimen/activity_vertical_margin" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/someText"
+        android:layout_above="@+id/manButton"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
